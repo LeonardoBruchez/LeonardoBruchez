@@ -1,5 +1,3 @@
-
-
 # Hello! 👋 I'm Leonardo Bruchez
 
 A technology and programming enthusiast with an insatiable passion for unraveling the digital world! I'm constantly learning and specializing, paving my way to become a full-stack developer. Soon, I'll embark on my university journey to further deepen my knowledge.
@@ -8,31 +6,46 @@ A technology and programming enthusiast with an insatiable passion for unravelin
 
 ## My Current Stack & Learning Path:
 
-Currently, my tools and learning focus include:
+At the moment, I'm focusing on:
 
 * **HTML & CSS:** The foundation of the web! Building and styling interfaces that come to life.
 * **JavaScript:** Next stop! I'm diving deep to bring interactivity and dynamism to my projects.
-* **Back-end:** Coming soon! Excited to explore the world of servers, databases, and the logic behind applications.
+* **Back-end:** Coming soon! Excited to explore the world of servers, databases, and application logic.
 
 I'm always open to new challenges and collaboration opportunities. Continuous learning is my driving force!
 
+---
+
 ### My Skills (under construction!):
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+---
+
+### Tools I Use:
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
+[![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+---
+
+## 🚀 Currently:
+
+- Advancing my JavaScript skills.
+- Preparing to start my university studies.
+- Open to internship and collaboration opportunities!
 
 ---
 
 ## Connect With Me!
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bruchezleo/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Bruchezleonardo@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bruchezleo/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Bruchezleonardo@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-bruchez-280635356/)
 
 ---
-
-
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
 
@@ -46,3 +59,6 @@ I'm always open to new challenges and collaboration opportunities. Continuous le
 
 </div>
 
+---
+
+Thank you for visiting my profile! 😊
