@@ -1,4 +1,4 @@
-<img align="right" src="URL_DA_SUA_IMAGEM.png" alt="Your profile picture or logo" width="300"/>
+<img align="right" src="URL_DA_SUA_IMAGEM.png" alt="Leonardo Bruchez profile picture" width="300"/>
 
 # Hello! 👋 I'm Leonardo Bruchez
 
@@ -21,6 +21,7 @@ I'm always open to new challenges and collaboration opportunities. Continuous le
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 ---
 
 ## Connect With Me!
@@ -28,7 +29,8 @@ I'm always open to new challenges and collaboration opportunities. Continuous le
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bruchezleo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Bruchezleonardo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-bruchez-280635356/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_INVITE_LINK) ---
+
+---
 
 ## Where You'll Find Me Coding:
 
@@ -42,6 +44,5 @@ I'm always open to new challenges and collaboration opportunities. Continuous le
     </td>
   </tr>
 </table>
-
 
 ---
