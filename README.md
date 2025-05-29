@@ -1,4 +1,4 @@
-<img align="right" src="URL_DA_SUA_IMAGEM.png" alt="Leonardo Bruchez profile picture" width="300"/>
+
 
 # Hello! 👋 I'm Leonardo Bruchez
 
