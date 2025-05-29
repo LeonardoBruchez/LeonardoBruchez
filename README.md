@@ -34,8 +34,15 @@ I'm always open to new challenges and collaboration opportunities. Continuous le
 
 
 
-## Where You'll Find Me Coding:
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonardoBruchez&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/LeonardoBruchez)
+  <a href="https://github.com/LeonardoBruchez" style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=LeonardoBruchez&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBruchez&layout=compact&theme=dark)](https://github.com/LeonardoBruchez)
+  <a href="https://github.com/LeonardoBruchez" style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBruchez&layout=compact&theme=dark" alt="Top Languages" />
+  </a>
+
+</div>
+
