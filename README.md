@@ -33,14 +33,15 @@ I'm always open to new challenges and collaboration opportunities. Continuous le
 ## Where You'll Find Me Coding:
 
 <table width="100%">
-  <tr>
-    <td width="50%">
-      [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonardoBruchez&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-    </td>
-    <td width="50%">
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBruchez&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-    </td>
-  </tr>
+  <tr>
+    <td width="50%">
+      [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonardoBruchez&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/LeonardoBruchez)
+    </td>
+    <td width="50%">
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBruchez&layout=compact&theme=dark)](https://github.com/LeonardoBruchez)
+    </td>
+  </tr>
 </table>
+
 
 ---
