@@ -8,13 +8,13 @@ A technology and programming enthusiast with an insatiable passion for unravelin
 
 <a href="https://www.instagram.com/bruchezleo/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-</a>&nbsp;
+</a>;
 <a href="mailto:Bruchezleonardo@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>&nbsp;
+</a>;
 <a href="https://www.linkedin.com/in/leonardo-bruchez-280635356/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>&nbsp;
+</a>;
 <a href="https://github.com/LeonardoBruchez/LeonardoBruchez" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
