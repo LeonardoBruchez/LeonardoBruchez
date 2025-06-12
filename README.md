@@ -4,6 +4,17 @@ A technology and programming enthusiast with an insatiable passion for unravelin
 
 ---
 
+## Connect With Me!
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bruchezleo/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Bruchezleonardo@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-bruchez-280635356/)
+[![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonardoBruchez/LeonardoBruchez)
+
+
+---
+
+
 ## My Current Stack & Learning Path:
 
 At the moment, I'm focusing on:
@@ -56,14 +67,5 @@ I'm always open to new challenges and collaboration opportunities. Continuous le
 
 ---
 
-## Connect With Me!
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bruchezleo/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Bruchezleonardo@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-bruchez-280635356/)
-[![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonardoBruchez/LeonardoBruchez)
-
-
----
 
 Thank you for visiting my profile! 😊
