@@ -6,10 +6,18 @@ A technology and programming enthusiast with an insatiable passion for unravelin
 
 ## Connect With Me!
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bruchezleo/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Bruchezleonardo@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-bruchez-280635356/)
-[![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonardoBruchez/LeonardoBruchez)
+<a href="https://www.instagram.com/bruchezleo/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+</a>&nbsp;
+<a href="mailto:Bruchezleonardo@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/leonardo-bruchez-280635356/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>&nbsp;
+<a href="https://github.com/LeonardoBruchez/LeonardoBruchez" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 
 ---
