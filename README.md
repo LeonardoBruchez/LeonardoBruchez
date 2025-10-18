@@ -39,7 +39,7 @@ A technology and programming enthusiast with an insatiable passion for unravelin
   </a>
 
   <a href="https://github.com/LeonardoBruchez" style="flex: 1; min-width: 299px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBruchez&layout=compact&theme=dark&cache_bust=202507132040" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBruchez&layout=compact&theme=dark&cache_bust=202510172133" alt="Top Languages" />
   </a>
 
 </div>
