@@ -6,7 +6,6 @@ A technology and programming enthusiast with an insatiable passion for unravelin
 
 ## Connect With Me!
 
-
 <sub> <strong>Follow on social media to see more content: </strong> <br>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leonardo-bruchez-280635356/)
@@ -15,11 +14,9 @@ A technology and programming enthusiast with an insatiable passion for unravelin
 
 ---
 
-
 ### My Skills (under construction!):
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/) [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/LeonardoBruchez)
-
 
 
 ---
@@ -29,21 +26,15 @@ A technology and programming enthusiast with an insatiable passion for unravelin
 - Preparing to start my university studies.
 - Open to internship and collaboration opportunities!
 
-
 ---
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+# 📊 GitHub Stats:
 
-  <a href="https://github.com/LeonardoBruchez" style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=LeonardoBruchez&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_bust=202510172137" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/LeonardoBruchez" style="flex: 1; min-width: 299px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBruchez&layout=compact&theme=dark&cache_seconds=0&cache_bust=202510172137" alt="Top Languages" />
-  </a>
-
-</div>
-
----
+![](https://github-readme-stats-1rjnl80du-leonardobruchezs-projects.vercel.app/api?username=LeonardoBruchez&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true)
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LeonardoBruchez&theme=discord_old_blurple&hide_border=false)
+<br/>
+![](https://github-readme-stats-1rjnl80du-leonardobruchezs-projects.vercel.app/api/top-langs/?username=LeonardoBruchez&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 Thank you for visiting my profile!! 😊
