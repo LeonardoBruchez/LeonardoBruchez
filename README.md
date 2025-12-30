@@ -26,17 +26,4 @@ A technology and programming enthusiast with an insatiable passion for unravelin
 - Preparing to start my university studies.
 - Open to internship and collaboration opportunities!
 
----
-
-# 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoBruchez&theme=discord_old_blurple&hide_border=false&token=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" alt="Estatísticas do GitHub" />
-</p>
-<h3 align="center">Linguagens Mais Usadas</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBruchez&layout=compact&theme=discord_old_blurple&hide_border=false&token=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" alt="Linguagens Mais Usadas" />
-</p>
-
-
 Thank you for visiting my profile!! 😊
