@@ -30,11 +30,13 @@ A technology and programming enthusiast with an insatiable passion for unravelin
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats-1rjnl80du-leonardobruchezs-projects.vercel.app/api?username=LeonardoBruchez&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true)
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LeonardoBruchez&theme=discord_old_blurple&hide_border=false)
-<br/>
-![](https://github-readme-stats-1rjnl80du-leonardobruchezs-projects.vercel.app/api/top-langs/?username=LeonardoBruchez&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoBruchez&theme=discord_old_blurple&hide_border=false&token=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" alt="Estatísticas do GitHub" />
+</p>
+<h3 align="center">Linguagens Mais Usadas</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBruchez&layout=compact&theme=discord_old_blurple&hide_border=false&token=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" alt="Linguagens Mais Usadas" />
+</p>
 
 
 Thank you for visiting my profile!! 😊
