@@ -26,4 +26,17 @@ A technology and programming enthusiast with an insatiable passion for unravelin
 - Preparing to start my university studies.
 - Open to internship and collaboration opportunities!
 
+### 📊 My Statistics
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeonardoBruchez&theme=algolia" />
+    </td>
+    <td width="50%" valign="top">
+      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeonardoBruchez&theme=algolia" />
+    </td>
+  </tr>
+</table>
+
 Thank you for visiting my profile!! 😊
