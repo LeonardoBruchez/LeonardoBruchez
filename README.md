@@ -36,7 +36,7 @@ I am driven by logic, system architecture, and the challenge of building secure,
 * 🎓 **Education:** Pursuing my degree in Analysis and Systems Development (ADS).
 * ☕ **Current Objective:** Mastering **Java** for robust backend development.
 * 🛡️ **Cybersecurity:** Focused on security theory and best practices (Cisco Certified).
-* ☁️ **Cloud Ambition:** Working toward the AWS/Azure ecosystem and the AWS Student Ambassador program.
+* ☁️ **Cloud Ambition:** Working toward the AWS/Azure ecosystem
 * 💡 **Innovation:** Engaged in the "Startup Experience 2026" with the Global Innovators project.
 
 ## 📊 GitHub Stats
