@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Leonardo Bruchez
 
-I am an **Analysis and Systems Development (ADS)** student at Estácio Santa Catarina. Having built a solid foundation in Web Technologies, I am now pivoting my focus toward **Backend Engineering** and **Cloud Infrastructure**.
+I am an **Analysis and Systems Development (ADS)** student in Santa Catarina. Having built a solid foundation in Web Technologies, I am now pivoting my focus toward **Backend Engineering** and **Cloud Infrastructure**.
 
 I am driven by logic, system architecture, and the challenge of building secure, scalable backend solutions.
 
