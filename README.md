@@ -10,7 +10,7 @@ I am driven by logic, system architecture, and the challenge of building secure,
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,git,vscode,cursor)](https://skillicons.dev)
 
-  <strong>The Next Step (Backend Focus):</strong><br>
+  <strong>The Next Step </strong><br>
   [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 ---
