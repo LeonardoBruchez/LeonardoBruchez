@@ -1,8 +1,14 @@
 # Hello! 👋 I'm Leonardo Bruchez
 
-I am an **Analysis and Systems Development (ADS)** student in Santa Catarina. Having built a solid foundation in Web Technologies, I am now pivoting my focus toward **Backend Engineering** and **Cloud Infrastructure**.
+### 🚀 About Me
 
-I am driven by logic, system architecture, and the challenge of building secure, scalable backend solutions.
+I am an **Analysis and Systems Development (ADS)** student based in Santa Catarina. Having built a solid foundation in Web Technologies, I am now pivoting my focus toward **Backend Engineering** and **Cloud Infrastructure**.
+
+* **Logic-Driven:** Focused on complex problem-solving and efficient algorithms.
+* **Architecture-Oriented:** Passionate about building secure, scalable, and resilient backend solutions.
+* **Cloud Focus:** Currently exploring the ecosystems of AWS and Azure to support high-availability systems.
+
+*"I believe that true software excellence lies in the robustness of its core and the efficiency of its data flow."*
 
 ---
 
