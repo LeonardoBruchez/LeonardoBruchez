@@ -8,26 +8,10 @@ I am driven by logic, system architecture, and the challenge of building secure,
 
 ### 🛠️ Technical Stack
 
-<p align="left">
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,git,vscode,cursor)](https://skillicons.dev)
+
   <strong>The Next Step (Backend Focus):</strong><br>
-  <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
-</p>
-
-<p align="left">
-  <strong>Established Foundation (Web & Frontend):</strong><br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-</p>
-
-<p align="left">
-  <strong>Tools & Environment:</strong><br>
-  <a href="https://cursor.sh/"><img src="https://img.shields.io/badge/Cursor-5E5E5E?style=for-the-badge&logo=cursor&logoColor=white" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
-  <a href="https://github.com/LeonardoBruchez"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Antigravity-FF4B4B?style=for-the-badge&logo=antigravity&logoColor=white" />
-</p>
+  [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 ---
 
