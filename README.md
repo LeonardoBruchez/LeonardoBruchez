@@ -18,10 +18,7 @@ I am driven by logic, system architecture, and the challenge of building secure,
 ## 📊 GitHub Stats
 
 <table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeonardoBruchez&theme=algolia" />
-    </td>
+  <tr>>
     <td width="50%" valign="top">
       <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeonardoBruchez&theme=algolia" />
     </td>
