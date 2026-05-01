@@ -16,9 +16,6 @@ I am an **Analysis and Systems Development (ADS)** student based in Santa Catari
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,git,vscode,cursor)](https://skillicons.dev)
 
-  <strong>The Next Step: </strong><br>
-  [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-
 ---
 
 ## 📊 GitHub Stats
