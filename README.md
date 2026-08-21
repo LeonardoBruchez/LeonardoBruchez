@@ -2,9 +2,9 @@
 
 # Olá, eu sou o Leonardo Bruchez 👋
 
-### Estudante de ADS | Backend & Cloud Enthusiast
+### Estudante de ADS | Dev Web & Segurança da Informação
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Backend+%7C+Node.js+%7C+APIs+REST;Explorando+AWS+e+Azure;Aberto+a+oportunidades+de+Est%C3%A1gio+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;React+%7C+Node.js+%7C+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o;Estudando+Cybersecurity+e+boas+pr%C3%A1ticas+de+c%C3%B3digo;Aberto+a+oportunidades+de+Est%C3%A1gio+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,8 +12,8 @@
 
 ### 🎯 Buscando oportunidades!
 
-> 💼 **Disponível para estágio em TI**, com foco em **Backend** — mas aberto também a **Frontend** e desenvolvimento Full Stack.
-> 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)** em Santa Catarina.
+> 💼 **Disponível para estágio em TI**, com foco em **Desenvolvimento Web** (React/Node) — evoluindo em **Segurança da Informação**.
+> 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (2º semestre) — Estácio, Santa Catarina.
 > 📩 Vamos conversar? Estou pronto para aprender, contribuir e crescer junto com o seu time!
 
 <div align="center">
@@ -27,11 +27,11 @@
 
 ## 🚀 Sobre mim
 
-- 🔭 Direcionando meu foco para **Engenharia de Backend** e **Infraestrutura em Nuvem**
-- 🧠 Apaixonado por lógica, algoritmos eficientes e arquitetura de sistemas escaláveis
-- ☁️ Explorando atualmente os ecossistemas da **AWS** e do **Azure**
-- 🌱 Sempre aprendendo — atualmente aprofundando conhecimentos em **Node.js** e boas práticas de back-end
-- 💬 Fale comigo sobre lógica de programação, arquitetura de software ou boas oportunidades de estágio!
+- 🔭 Focando em **Desenvolvimento Web** (React/Node) e aprofundando **Segurança da Informação**
+- 🧠 No início da faculdade, mas já construindo projetos reais fora de aula — não só exercício de curso
+- 🔐 Estudando **Cybersecurity** (FIAP Nano Courses, 120h) — em andamento
+- 🌱 Sempre aprendendo — hoje isso passa por **Node.js**, boas práticas de código e segurança aplicada
+- 💬 Fale comigo sobre React, Node.js, segurança da informação ou boas oportunidades de estágio!
 
 > *"Acredito que a verdadeira excelência de um software reside na robustez do seu núcleo e na eficiência do seu fluxo de dados."*
 
@@ -44,6 +44,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
