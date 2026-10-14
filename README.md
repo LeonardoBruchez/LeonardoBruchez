@@ -23,7 +23,6 @@
 - 🛠️ Construindo atualmente uma **ferramenta fullstack de prospecção de empresas** *(em desenvolvimento)*
 - 🗄️ Aprofundando em **Banco de Dados** com **PostgreSQL**
 - 🔐 Interesse em **Segurança da Informação**, especialmente segurança web e detecção de phishing
-- 🤝 Participei de um projeto de **Inclusão Digital**, ajudando pessoas a usarem tecnologia no dia a dia
 - 💬 Fale comigo sobre **React, Node.js, banco de dados** ou **oportunidades de estágio**!
 
 <br clear="right"/>
