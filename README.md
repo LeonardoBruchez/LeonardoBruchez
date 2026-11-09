@@ -20,7 +20,6 @@
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (2º semestre) — **Estácio**, SC
 - 💻 Estudando **desenvolvimento web** com **React** e **Node.js**
-- 🛠️ Construindo atualmente uma **ferramenta fullstack de prospecção de empresas** *(em desenvolvimento)*
 - 🗄️ Aprofundando em **Banco de Dados** com **PostgreSQL**
 - 🔐 Interesse em **Segurança da Informação**, especialmente segurança web e detecção de phishing
 - 💬 Fale comigo sobre **React, Node.js, banco de dados** ou **oportunidades de estágio**!
