@@ -33,10 +33,10 @@
 <div align="center">
 
 ### 💻 Uso no dia a dia
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,git,github,vscode&perline=10" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode&perline=10" />
 
 ### 📚 Estudando agora
-<img src="https://skillicons.dev/icons?i=postgres,python,php,linux,debian&perline=5" />
+<img src="https://skillicons.dev/icons?i=postgres&perline=5" />
 
 </div>
 
