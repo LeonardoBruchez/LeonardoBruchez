@@ -36,7 +36,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode&perline=10" />
 
 ### 📚 Estudando agora
-<img src="https://skillicons.dev/icons?i=postgres&perline=5" />
+<img src="https://skillicons.dev/icons?i=java,postgres&perline=5" />
 
 </div>
 
