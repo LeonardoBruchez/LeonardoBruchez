@@ -45,9 +45,9 @@
 ## 📖 Aprendendo
 
 - 🎓 **Estácio** — Análise e Desenvolvimento de Sistemas
-- 🚀 **Rocketseat** — **Banco de Dados** e **PHP** *(em andamento)*
-- 🔐 **Cisco NetAcad** — Badge de Introdução à Cibersegurança
-- 🐧 **Linux (Debian)** — usando no meu próprio notebook
+- 🚀 **Rocketseat** — **Banco de Dados**
+- ☕ **Java** — lógica de programação e orientação a objetos
+- 🐘 **SQL com PostgreSQL** — modelagem, consultas e relacionamentos
 
 ---
 
