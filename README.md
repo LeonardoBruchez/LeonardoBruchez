@@ -33,7 +33,7 @@
 <div align="center">
 
 ### 💻 Uso no dia a dia
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode&perline=10" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,python&perline=10" />
 
 ### 📚 Estudando agora
 <img src="https://skillicons.dev/icons?i=java,postgres&perline=5" />
